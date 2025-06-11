@@ -1,0 +1,7 @@
+streamlit
+numpy
+torch
+transformers
+torchvision
+pillow
+gdown
