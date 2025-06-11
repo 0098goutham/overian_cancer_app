@@ -43,7 +43,7 @@ The deep learning model used here is a custom multi-task Vision Transformer (ViT
 ---
 
 ## 📁 Folder Structure
-  ├── app.py # Streamlit app logic
+  ├── app.py # Streamlit app logic <br>
   ├── requirements.txt # All dependencies
 
 ## 🔧 Setup Instructions
