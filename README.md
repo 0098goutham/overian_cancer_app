@@ -57,8 +57,8 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Google Drive Integration
-MODEL_ID = "1IF8oIcp1KCoC7w_-dju42eqpR4ZKksmB"
-MODEL_URL = f"https://drive.google.com/uc?id={MODEL_ID}"
+MODEL_ID = "1IF8oIcp1KCoC7w_-dju42eqpR4ZKksmB" <br>
+MODEL_URL = f"https://drive.google.com/uc?id={MODEL_ID}" <br>
 gdown.download(MODEL_URL, MODEL_PATH, quiet=False)
 
 # License
