@@ -1,0 +1,5 @@
+Copyright (c) 2025 Goutham
+
+All rights reserved.
+
+Unauthorized copying, use, distribution, or modification of this code is strictly prohibited without express written permission from the author.
